@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Tao Blog</title>
-    <link>http://xutaoa.github.io/posts/</link>
+    <link>https://xutaoa.github.io/posts/</link>
     <description>Recent content in Posts on Tao Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Sat, 07 Dec 2019 11:20:53 +0800</lastBuildDate>
     
-	<atom:link href="http://xutaoa.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://xutaoa.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Go 怎么高效拷贝一个slice?</title>
-      <link>http://xutaoa.github.io/posts/posts/</link>
+      <link>https://xutaoa.github.io/posts/posts/</link>
       <pubDate>Sat, 07 Dec 2019 11:20:53 +0800</pubDate>
       
-      <guid>http://xutaoa.github.io/posts/posts/</guid>
+      <guid>https://xutaoa.github.io/posts/posts/</guid>
       <description>How to perfectly clone a slice? Go 官方列出了2种方式clone/copy切片
 b = make([]T, len(a)) copy(b, a)  and
 b = append([]T(nil), a.</description>
